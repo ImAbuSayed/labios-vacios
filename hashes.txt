@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios vacíos
+
+This log tracks the cryptographic history and versioning for the song **Labios vacíos** (labios-vacios).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:25:27.326149 | `v1` | `efa932fc98cc6b3b60ba9adb979b18865aba192aa405aa04caba5e5295acf446` | `ff7a5db2574da99e7826d5247861a0e71ebed8e3123864ca3a73b6e2e4b45f5c` | `2026-06-20_labios-vacios-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
