@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-vacios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Labios vacíos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-vacios/) |
+| **Get License** | [Music Rights & Licensing for Labios vacíos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-vacios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Labios vacíos, quiero probarte esta noche
+> Tus labios vacíos, me llaman sin voz
+> Labios vacíos, ven acércate despacio
+> Que el ritmo nos lleve donde solo estemos los dos
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
